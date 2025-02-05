@@ -58,12 +58,4 @@ pip install numpy pandas nltk scikit-learn
 - Use **Ensemble Learning** (Random Forest, Gradient Boosting)
 - Expand dataset for better generalization
 
-## 📸 Screenshots (Optional)
-_Add relevant screenshots of model performance, confusion matrix, or dataset samples._
-
----
-### 📬 Contact
-For queries or contributions, reach out at [your email] or connect via [LinkedIn/GitHub].
-
-Happy Coding! 🚀
 
